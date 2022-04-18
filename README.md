@@ -1,8 +1,8 @@
 # Iterasys - Curso de Teste de Software
 
-[![eduardodsr](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardodsr/cursoemvideo)
-![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/)
-![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/)
+[![eduardodsr](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardodsr/testeDeSoftware)
+![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/testeDeSoftware)
+![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/testeDeSoftware)
 
 ## Iterasys - Início Rápido em Teste de Software
 
@@ -70,9 +70,9 @@ Professor: José Correia
   - **Hard Skills** representam as habilidades técnicas intrinsicamente necessárias a realização do trabalho.
   - Um **Profissional de Testes/QA** precisa de um conjunto de conhecimentos e habilidades pertencentes a diversos dominios, de tecnologia ao negócio, do geral ao específico da área da Qualidade de Software.
 - [x] 9. Débito Técnico
-     [Débito Técnico] &rarr; Todos nós precisamos desenvolver vários conhecimentos e habilidades que ainda nos faltam;  
-     Contudo a velocidade dos projetos e a concorrência entre empresas ou profissionais requer o bom senso de não acumular dívidas exageradas;
-     É mais fácil manter-se sempre aprendendo do que ter que reinventar após anos afastado dos estudos e inovações.
+  - [Débito Técnico] &rarr; Todos nós precisamos desenvolver vários conhecimentos e habilidades que ainda nos faltam;  
+    Contudo a velocidade dos projetos e a concorrência entre empresas ou profissionais requer o bom senso de não acumular dívidas exageradas;
+    É mais fácil manter-se sempre aprendendo do que ter que reinventar após anos afastado dos estudos e inovações.
 - [x] 10. Os Diferentes Objetivos deste Curso
 - [x] 11. Como Estudar e Progredir
 - [x] 12. Crie o seu Cartão de Visita Digital
@@ -157,7 +157,7 @@ Professor: José Correia
 
 ---
 
-<b><u> Resumo das minhas anotações: </b></u>
+<b><u> Módulo 2 - Resumo das minhas anotações: </b></u>
 
 #### Aula 3 - Os 7 Fundamentos (Princípios) do Teste (ISTQB)
 
@@ -279,6 +279,7 @@ Professor: José Correia
 - [x] 12. Fluxo Contínuo - Parte 2
 - [x] 13. Técnica Pomodoro
 
+<br>
 <hr>
 
 <span id="m4">
@@ -338,7 +339,7 @@ Professor: José Correia
 
 ---
 
-<b><u> Resumo das minhas anotações: </b></u>
+<b><u> Módulo 4 - Resumo das minhas anotações: </b></u>
 
 #### Aula 05 - Requisitos Funcionais e Requisitos Não Funcionais
 
@@ -658,7 +659,7 @@ Professor: Marcelo de Bittencourt
 
 ---
 
-<b><u> Resumo das minhas anotações: </b></u>
+<b><u> Módulo 5 - Resumo das minhas anotações: </b></u>
 
 #### Pirâmide de Testes – Porque você precisa saber
 
