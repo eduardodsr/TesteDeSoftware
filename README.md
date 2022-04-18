@@ -1,10 +1,12 @@
-# Iterasys - Curso de Teste de Software
+# Iterasys - Curso de Início Rápido em Teste de Software
 
 [![eduardodsr](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardodsr/testeDeSoftware)
 ![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/testeDeSoftware)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/testeDeSoftware)
 
+<!--
 ## Iterasys - Início Rápido em Teste de Software
+-->
 
 <h1 align="center"> Teste de Software </h1>
 
@@ -853,9 +855,9 @@ Como todos esses tipos de teste melhoram as funcionalidades e melhoram a experi�
 **A hora certa para realizar esses tipos de testes**
 
 O **teste de desempenho** é uma obrigação em todos os ambientes de desenvolvimento e produção para garantir que seu site/aplicativo esteja atualizado e possa suportar a carga esperada do usuário. **Testes funcionais** devem ser feitos a cada compilação para validar todas as alterações e funcionalidades contra especificações e requisitos.
-<br>
+<br><br>
 Os **Testes de Integração** devem ser feitos quando você integrar um novo código com algum outro módulo para garantir que não haja conflitos e trabalhe em conjunto corretamente.
-<br>
+<br><br>
 Os **Testes Unitários** devem ser feitos pelos desenvolvedores sempre que eles terminarem de escrever qualquer código para validar a entrada e saída corretas.
 
 ## **Dica: Uma abordagem mão-na-mão**
