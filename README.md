@@ -852,21 +852,25 @@ Como todos esses tipos de teste melhoram as funcionalidades e melhoram a experi�
 
 **A hora certa para realizar esses tipos de testes**
 
-O **teste de desempenho** é uma obrigação em todos os ambientes de desenvolvimento e produção para garantir que seu site/aplicativo esteja atualizado e possa suportar a carga esperada do usuário. **Testes funcionais** devem ser feitos a cada compilação para validar todas as alterações e funcionalidades contra especificações e requisitos. Os **testes de integração** devem ser feitos quando você integrar um novo código com algum outro módulo para garantir que não haja conflitos e trabalhe em conjunto corretamente. Os **testes unitários** devem ser feitos pelos desenvolvedores sempre que eles terminarem de escrever qualquer código para validar a entrada e saída corretas.
+O **teste de desempenho** é uma obrigação em todos os ambientes de desenvolvimento e produção para garantir que seu site/aplicativo esteja atualizado e possa suportar a carga esperada do usuário. **Testes funcionais** devem ser feitos a cada compilação para validar todas as alterações e funcionalidades contra especificações e requisitos.
+<br>
+Os **Testes de Integração** devem ser feitos quando você integrar um novo código com algum outro módulo para garantir que não haja conflitos e trabalhe em conjunto corretamente.
+<br>
+Os **Testes Unitários** devem ser feitos pelos desenvolvedores sempre que eles terminarem de escrever qualquer código para validar a entrada e saída corretas.
 
-**Dica: Uma abordagem mão-na-mão**
+## **Dica: Uma abordagem mão-na-mão**
 
 Embora cada tipo de teste pareça uma tarefa autônoma, você pode combiná-los de forma inteligente para alcançar maior qualidade do produto. Vamos dar um exemplo.
 
 Digamos que você criou uma nova página da Web, executando um teste de carga (teste de desempenho) usando o LoadView para essa página da Web como um teste de unidade, certifique-se de que quando você fizer sua compilação final com todas as páginas, o site já está otimizado para lidar com alta carga de usuários em cenários de pico de tráfego. Isso significa efetivamente que você tem o seu desempenho testando uma parte dos testes de unidade. Uma abordagem mão-na-mão como esta vai ajudá-lo a reduzir os problemas em um estágio inicial e economizar-lhe uma grande quantidade de custo e tempo no longo prazo.
 
-**O que é LoadView?**
+## **O que é LoadView?**
 
 **LoadView** é uma ferramenta de teste de carga baseada em nuvem que verifica o desempenho do seu site em altas condições de tráfego. Ele simula milhares de usuários virtuais de **diferentes locais geográficos** em vários navegadores e dispositivos para criar os ambientes mais realistas para seus testes de desempenho. Ele também oferece um recurso de criação de script de ponto e clique usando o **EveryStep Web Recorder** que não requer nenhuma habilidade de codificação para que qualquer pessoa em sua equipe possa criar scripts e realizar testes de carga. Você pode testar seu site, aplicativo, páginas da Web e **APIs de terceiros** com o LoadView para detectar gargalos de desempenho e resolvê-los rapidamente. LoadView é rápido para começar, e seus relatórios de desempenho são fáceis de entender com insights acionáveis.
 
 ---
 
-**Conclusão: Tipos de Testes de Software**
+## **Conclusão: Tipos de Testes de Software**
 
 - O **teste de desempenho** é uma obrigação em todos os ambientes de desenvolvimento e produção para garantir que seu site/aplicativo esteja atualizado e possa suportar a carga esperada do usuário.
 
